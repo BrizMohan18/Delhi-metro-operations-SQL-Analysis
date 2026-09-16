@@ -1,4 +1,4 @@
-(Delhi Metro Operations & Passenger Analysis)
+# Delhi Metro Operations & Passenger Analysis
 
 ## About the Project
 
@@ -37,13 +37,13 @@ real-world business questions.
 
 The project contains 7 tables:
 
-stations.csv
-passengers.csv
-service_calendar.csv
-trips.csv
-payments.csv
-station_usage.csv
-delays.csv
+* stations.csv
+* passengers.csv
+* service_calendar.csv
+* trips.csv
+* payments.csv
+* station_usage.csv
+* delays.csv
 
 ## Tools Used
 
